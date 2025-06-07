@@ -14,7 +14,7 @@ This project investigates the **impact of smoking on key health metrics** such a
 ---
 
 ## 🧰 Tools Used
-- **Python** (`pandas`, `seaborn`, `matplotlib`, `statsmodels`)  
+- **Python** (`pandas`,`matplotlib`, `Numpy`)  
 - **Power BI** for interactive dashboard and KPIs  
 - Jupyter Notebook for analysis & visualization  
 - Data cleaning and transformation in Python  
